@@ -1,5 +1,5 @@
 var Gmail =  function() {
-
+  debugger;
   var api = {
               get : {},
               observe : {},
